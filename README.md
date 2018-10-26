@@ -21,7 +21,7 @@ Provide global vpn access account(免费提供全球vpn访问账户)
 ## 2.Use restriction 使用限制
 
  - 支持 IPsec/L2TP 和 Cisco IPsec 协议
- - 提供不限流量，不限贷款的使用
+ - 提供不限流量，不限带宽的使用
  - 每个账号最长使用时间为7天，到期后可以在本页面查看新的服务账号
 
 ## 3.Configuration 配置教程
